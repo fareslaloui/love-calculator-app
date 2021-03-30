@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Love Calculator</string>
+    <string name="check">Check</string>
+    <string name="second_name">Second Name</string>
+    <string name="first_name">First Name</string>
+    <string name="your_name">Your Name</string>
+    <string name="partner_name">Partner\'s Name</string>
+    <string name="h">%</string>
+    <string name="amp"><![CDATA[&]]></string>
+    <string name="quotation_start"><![CDATA[&ldquo]]></string>
+    <string name="quotation_end"><![CDATA[&rdquo]]></string>
+    <string name="try_again">Try Again</string>
+    <string name="share_with_friends">Share with Friends</string>
+    <string name="contact_developer">Contact Developer</string>
+    <string name="rate_on_google_play">Rate on Google Play</string>
+    <string name="more_apps">More Apps</string>
+    <string name="email">theknightcoder.aol.com</string>
+    <string name="toolbar_title">Love Calculator</string>
+
+</resources>
